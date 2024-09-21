@@ -1,0 +1,45 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Chimical reactor",
+  "health": 3000,
+    "drawer": {
+  "type": "DrawMulti",
+  "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+  {
+  "type": "DrawPlasma",
+  "suffix": "-plasma-",
+  "plasma1": "B1CA79",
+  "plasma2": "B1CA79"
+  }
+  ]
+  },
+  "size": 6,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquid": true,
+  "itemCapacity": 30,
+  "liquidCapacity": 300,
+  "powerProduction": 3000,
+  "consumes": {
+    "items": [
+      "nf/3",
+      "npf/3"
+    ]
+  },
+  "requirements": [
+    "tp/3000",
+    "lp/4000",
+    "pm/350"
+  ],
+  "outputLiquid": "ch-po/0.2",
+  "craftTime": 180,
+  "category": "power",
+  "research": "peg",
+  "loopSound": "pulse",
+  "loopSoundVolume": 2,
+  "ambientSound": "hum",
+  "ambientSoundVolume": 2
+}

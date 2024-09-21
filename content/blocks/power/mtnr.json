@@ -1,0 +1,46 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Methane-Thermal nuclear reactor",
+  "health": 1000,
+  "drawer": {
+  "type": "DrawMulti",
+  "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+  {
+  "type": "DrawPlasma",
+  "suffix": "-plasma-",
+  "plasma1": "323232",
+  "plasma2": "323232"
+  }
+  ]
+  },
+  "size": 8,
+  "hasPower": true,
+  "hasLiquids": true,
+  "liquidCapacity": 300,
+  "powerProduction": 1000,
+  "consumes": {
+    "liquids": [
+      "th-pl/0.2",
+      "plasma/0.1",
+      "thp/0.2",
+      "el2k/0.1"
+    ]
+  },
+  "requirements": [
+    "tp/3000",
+    "lp/4500",
+    "wm/300",
+    "pm/500"
+  ],
+  "outputLiquid": "m/4",
+  "craftTime": 60,
+  "category": "power",
+  "research": "tnr2",
+  "loopSound": "pulse",
+  "loopSoundVolume": 2,
+  "ambientSound": "hum",
+  "ambientSoundVolume": 2
+}

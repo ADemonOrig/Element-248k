@@ -1,0 +1,47 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Methane generator",
+  "health": 2000,
+  "effectChance": 0.5,
+"generateEffectRange": 1,
+"generateEffect": {
+"type": "RadialEffect",
+"effect": {
+"type": "multiEffect",
+"effects": [
+{
+"type": "ParticleEffect",
+"particles": 3,
+"lifetime": 60,
+"interp": "circleOut",
+"length": 30,
+"cone": -8,
+"sizeFrom": 3,
+"sizeTo": 0,
+"colorFrom": "323232",
+"colorTo": "323232"
+}
+]
+},
+"rotationOffset": 45,
+"lengthOffset": 12,
+"amount": 4
+},
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": true,
+  "liquidCapacity": 300,
+  "powerProduction": 500,
+  "consumes": {
+    "liquids": [
+      "m/0.3"
+    ]
+  },
+  "requirements": [
+    "tp/1000",
+    "wm/200"
+  ],
+  "craftTime": 60,
+  "category": "power",
+  "research": "mtnr"
+}

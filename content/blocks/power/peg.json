@@ -1,0 +1,48 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Plasma energy generator",
+  "health": 1500,
+  "effectChance": 0.5,
+"generateEffectRange": 1,
+"generateEffect": {
+"type": "RadialEffect",
+"effect": {
+"type": "multiEffect",
+"effects": [
+{
+"type": "ParticleEffect",
+"particles": 3,
+"lifetime": 60,
+"interp": "circleOut",
+"length": 30,
+"cone": -8,
+"sizeFrom": 3,
+"sizeTo": 0,
+"colorFrom": "CB3471",
+"colorTo": "CB3471"
+}
+]
+},
+"rotationOffset": 45,
+"lengthOffset": 12,
+"amount": 4
+},
+  "size": 3,
+  "hasPower": true,
+  "hasLiquids": true,
+  "liquidCapacity": 300,
+  "powerProduction": 300,
+  "consumes": {
+    "liquids": [
+      "plasma/0.025"
+    ]
+  },
+  "requirements": [
+    "lp/2000",
+    "tp/1000",
+    "pm/500"
+  ],
+  "craftTime": 60,
+  "category": "power",
+  "research": "tnr1"
+}

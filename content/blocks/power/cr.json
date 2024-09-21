@@ -1,0 +1,31 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Cryo reactor",
+  "health": 2000,
+  "size": 5,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "itemCapacity": 30,
+  "liquidCapacity": 300,
+  "powerProduction": 900,
+  "consumes": {
+    "liquids": [
+      "cryofluid/0.5",
+      "nw/0.1"
+    ],
+    "items": [
+      "np/1"
+    ]
+  },
+  "requirements": [
+    "lp/2000",
+    "gm/500",
+    "bm/200"
+  ],
+  "outputLiquid": "cw/0.2",
+  "craftTime": 60,
+  "category": "power",
+  "research": "nr",
+  "consumeEffect": "lancerLaserCharge"
+}
