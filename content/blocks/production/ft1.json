@@ -1,0 +1,27 @@
+{
+    "name": "factory technology 1",
+    "type": "GenericCrafter",
+    "health": 500,
+    "outputItems": [
+        "gm/1"
+    ],
+    "consumes": {
+        "power": 10,
+        "items": [
+            "lp/2"
+        ]
+    },
+    "size": 2,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": false,
+    "itemCapacity": 10,
+    "craftTime": 30,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "lp/500"
+    ],
+    "research": "flp"
+}

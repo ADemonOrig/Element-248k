@@ -1,0 +1,26 @@
+{
+    "name": "factory lead plate",
+    "type": "GenericCrafter",
+    "health": 500,
+    "outputItems": [
+        "lp/1"
+    ],
+    "consumes": {
+        "power": 10,
+        "items": [
+            "lead/2"
+        ]
+    },
+    "size": 2,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "itemCapacity": 10,
+    "craftTime": 60,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "lead/100"
+    ],
+    "research": "core-shard"
+}

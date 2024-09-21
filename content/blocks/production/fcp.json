@@ -1,0 +1,36 @@
+{
+    "name": "factory cold plasma",
+    "type": "GenericCrafter",
+    "health": 1500,
+    "outputItems": [
+        "cp/1"
+    ],
+    "consumes": {
+        "power": 3000,
+        "items": [
+            "np/1"
+        ],
+        "liquids": [
+            "el2k/0.1",
+            "plasma/0.1",
+            "cryofluid/0.4"
+        ]
+    },
+    "size": 2,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": true,
+    "itemCapacity": 10,
+    "liquidCapacity": 100,
+    "craftTime": 60,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "tp/2000",
+      "lp/2000",
+      "pm/300",
+      "bm/500"
+    ],
+    "research": "ft4"
+}

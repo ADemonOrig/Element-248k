@@ -1,0 +1,28 @@
+{
+    "name": "factory tungsten plate",
+    "type": "GenericCrafter",
+    "health": 500,
+    "outputItems": [
+        "tp/1"
+    ],
+    "consumes": {
+        "power": 1.66666667,
+        "items": [
+            "lp/2",
+            "silicon/2"
+        ]
+    },
+    "size": 2,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "itemCapacity": 10,
+    "craftTime": 60,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "lp/200",
+      "bm/20"
+    ],
+    "research": "flp"
+}

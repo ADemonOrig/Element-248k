@@ -1,0 +1,35 @@
+{
+    "name": "factory Nuclear fuel",
+    "type": "GenericCrafter",
+    "health": 1000,
+    "outputItems": [
+        "nf/1"
+    ],
+    "consumes": {
+        "power": 400,
+        "items": [
+            "u/2"
+        ],
+        "liquids": [
+            "rw/0.1"
+        ]
+    },
+    "size": 2,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": false,
+    "itemCapacity": 10,
+    "liquidCapacity": 100,
+    "craftTime": 60,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "tp/500",
+      "lp/1000",
+      "gm/500",
+      "bm/300",
+      "rm/400"
+    ],
+    "research": "fu"
+}

@@ -1,0 +1,35 @@
+{
+    "name": "factory thermal-paste",
+    "type": "GenericCrafter",
+    "health": 500,
+    "consumes": {
+        "power": 100,
+        "items": [
+            "pu/1"
+        ],
+        "liquids": [
+            "oil/0.2"
+        ]
+    },
+    "size": 2,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": true,
+    "liquidCapacity": 100,
+    "itemCapacity": 10,
+    "craftTime": 60,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "lp/1000",
+      "gm/300",
+      "rm/200",
+      "bm/200"
+    ],
+    "outputLiquid": {
+        "liquid": "thp",
+        "amount": 0.2
+    },
+    "research": "ft2"
+}
