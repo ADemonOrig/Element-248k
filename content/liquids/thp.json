@@ -1,0 +1,9 @@
+{
+    "type": "liquid",
+    "name": "thermal paste",
+    "temperature": 10,
+    "viscosity": 0.5,
+    "explosiveness": 1,
+    "heatCapacity": 10,
+    "color": "FFB204"
+}

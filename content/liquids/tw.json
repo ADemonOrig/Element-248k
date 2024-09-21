@@ -1,0 +1,10 @@
+{
+    "type": "liquid",
+    "gas": true,
+    "name": "thermal waste",
+    "temperature": 5,
+    "viscosity": 0,
+    "explosiveness": 0,
+    "heatCapacity": 5,
+    "color": "F3B000"
+}

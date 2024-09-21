@@ -1,0 +1,9 @@
+{
+    "type": "liquid",
+    "name": "plasma",
+    "temperature": 10000,
+    "viscosity": 0,
+    "explosiveness": 0,
+    "heatCapacity": 10000,
+    "color": "CB3471"
+}

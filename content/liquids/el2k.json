@@ -1,0 +1,10 @@
+{
+    "type": "liquid",
+    "gas": true,
+    "name": "Element2k",
+    "temperature": 0,
+    "viscosity": 0,
+    "explosiveness": 0,
+    "heatCapacity": 0,
+    "color": "FFFFFF"
+}

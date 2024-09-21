@@ -1,0 +1,10 @@
+{
+    "type": "liquid",
+    "gas": true,
+    "name": "nuclear waste",
+    "temperature": 10,
+    "viscosity": 0,
+    "explosiveness": 1,
+    "heatCapacity": 10,
+    "color": "64DD66"
+}

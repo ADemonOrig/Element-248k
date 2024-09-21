@@ -1,0 +1,10 @@
+{
+    "type": "liquid",
+    "gas": true,
+    "name": "radioactivity waste",
+    "temperature": 3,
+    "viscosity": 0,
+    "explosiveness": 3,
+    "heatCapacity": 3,
+    "color": "8A7FA5"
+}

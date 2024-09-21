@@ -1,0 +1,10 @@
+{
+    "type": "liquid",
+    "gas": true,
+    "name": "methane",
+    "temperature": 0.5,
+    "viscosity": 0,
+    "explosiveness": 0.5,
+    "heatCapacity": 0.5,
+    "color": "999999"
+}

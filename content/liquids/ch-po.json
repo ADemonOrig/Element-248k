@@ -1,0 +1,10 @@
+{
+    "type": "liquid",
+    "gas": true,
+    "name": "chimical posion",
+    "temperature": 0,
+    "viscosity": 0,
+    "explosiveness": 10,
+    "heatCapacity": 0,
+    "color": "B1CA79"
+}

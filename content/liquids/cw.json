@@ -1,0 +1,10 @@
+{
+    "type": "liquid",
+    "gas": true,
+    "name": "cryo waste",
+    "temperature": 0,
+    "viscosity": 0,
+    "explosiveness": 3,
+    "heatCapacity": 0,
+    "color": "A1F9FF"
+}
