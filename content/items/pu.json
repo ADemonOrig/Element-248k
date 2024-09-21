@@ -1,0 +1,10 @@
+{
+  "cost": 1,
+  "type": "item",
+  "name": "plutonium",
+  "color": "E99100",
+  "explosiveness": 3,
+  "radioactivity": 3,
+  "flammability": 10,
+  "alwaysUnlocked": false
+}

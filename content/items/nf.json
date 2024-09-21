@@ -1,0 +1,10 @@
+{
+  "cost": 5,
+  "type": "item",
+  "name": "uranium fuel",
+  "color": "5E988D",
+  "explosiveness": 20,
+  "radioactivity": 20,
+  "flammability": 3,
+  "alwaysUnlocked": false
+}

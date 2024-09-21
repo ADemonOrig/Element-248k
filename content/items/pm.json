@@ -1,0 +1,10 @@
+{
+  "cost": 2,
+  "type": "item",
+  "name": "purple microciruit",
+  "color": "A934C9",
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "flammability": 0,
+  "alwaysUnlocked": false
+}

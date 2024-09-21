@@ -1,0 +1,10 @@
+{
+  "cost": 2,
+  "type": "item",
+  "name": "uranium",
+  "color": "64DD66",
+  "explosiveness": 9.99,
+  "radioactivity": 9.99,
+  "flammability": 1,
+  "alwaysUnlocked": false
+}

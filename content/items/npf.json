@@ -1,0 +1,10 @@
+{
+  "cost": 5,
+  "type": "item",
+  "name": "neptunium fuel",
+  "color": "4A9AA2",
+  "explosiveness": 30,
+  "radioactivity": 30,
+  "flammability": 3,
+  "alwaysUnlocked": false
+}

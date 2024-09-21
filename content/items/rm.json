@@ -1,0 +1,10 @@
+{
+  "cost": 2,
+  "type": "item",
+  "name": "red microciruit",
+  "color": "FF0404",
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "flammability": 0,
+  "alwaysUnlocked": false
+}

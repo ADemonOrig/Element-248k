@@ -1,0 +1,10 @@
+{
+  "cost": 8,
+  "type": "item",
+  "name": "cold thermal paste",
+  "color": "2020DF",
+  "explosiveness": 0,
+  "radioactivity": 1,
+  "flammability": 0,
+  "alwaysUnlocked": false
+}

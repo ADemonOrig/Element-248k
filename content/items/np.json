@@ -1,0 +1,10 @@
+{
+  "cost": 2,
+  "type": "item",
+  "name": "neptunium",
+  "color": "A1F9FF",
+  "explosiveness": 10,
+  "radioactivity": 10,
+  "flammability": 1,
+  "alwaysUnlocked": false
+}

@@ -1,0 +1,10 @@
+{
+  "cost": 2,
+  "type": "item",
+  "name": "blue microciruit",
+  "color": "2020DF",
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "flammability": 0,
+  "alwaysUnlocked": false
+}

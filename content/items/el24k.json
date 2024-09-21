@@ -1,0 +1,10 @@
+{
+  "cost": 8,
+  "type": "item",
+  "name": "Element 24k",
+  "color": "FFFFFF",
+  "explosiveness": 100,
+  "radioactivity": 1,
+  "flammability": 1,
+  "alwaysUnlocked": false
+}

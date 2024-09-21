@@ -1,0 +1,10 @@
+{
+  "cost": 1,
+  "type": "item",
+  "name": "tungsten plate",
+  "color": "758A96",
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "flammability": 0,
+  "alwaysUnlocked": false
+}

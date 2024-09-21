@@ -1,0 +1,10 @@
+{
+  "cost": 8,
+  "type": "item",
+  "name": "Element -37",
+  "color": "373737",
+  "explosiveness": 0,
+  "radioactivity": -10,
+  "flammability": 0,
+  "alwaysUnlocked": false
+}

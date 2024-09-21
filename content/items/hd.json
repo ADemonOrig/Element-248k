@@ -1,0 +1,10 @@
+{
+  "cost": 8,
+  "type": "item",
+  "name": "half decay",
+  "color": "C4FFCB",
+  "explosiveness": 100,
+  "radioactivity": 100,
+  "flammability": 0,
+  "alwaysUnlocked": false
+}

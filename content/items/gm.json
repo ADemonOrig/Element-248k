@@ -1,0 +1,10 @@
+{
+  "cost": 2,
+  "type": "item",
+  "name": "green microciruit",
+  "color": "20DF20",
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "flammability": 0,
+  "alwaysUnlocked": false
+}
