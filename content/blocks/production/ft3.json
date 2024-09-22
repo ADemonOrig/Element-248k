@@ -3,7 +3,7 @@
     "type": "GenericCrafter",
     "health": 500,
     "outputItems": [
-        "bm/2"
+        "bm/1"
     ],
     "consumes": {
         "power": 16.666667,
