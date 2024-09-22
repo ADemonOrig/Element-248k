@@ -1,0 +1,12 @@
+type: StackConveyor
+name: Tungsten conveyor
+health: 100
+itemCapacity: 30
+speed: 0.06
+outputRouter: false
+baseEfficiency: 1
+requirements: [
+  tp/2
+]
+category: distribution
+research: ftp

@@ -1,0 +1,14 @@
+type: UnitCargoLoader
+name: Drone station
+health: 500
+size: 3
+itemCapacity: 100
+consumes: {
+  power: 10
+}
+requirements: [
+  lp/300
+  tp/200
+]
+category: distribution
+research: ft1

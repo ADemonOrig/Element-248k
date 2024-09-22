@@ -1,0 +1,11 @@
+type: UnitCargoUnloadPoint
+name: Drone point
+health: 500
+itemCapacity: 50
+size: 2
+requirements: [
+  lp/200
+  tp/100
+]
+category: distribution
+research: ds

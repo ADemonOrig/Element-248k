@@ -1,0 +1,10 @@
+type: StackRouter
+name: Tungsten router
+health: 100
+itemCapacity: 10
+speed: 0.1
+requirements: [
+  tp/10
+]
+category: distribution
+research: tc
