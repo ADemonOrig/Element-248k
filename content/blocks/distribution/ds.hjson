@@ -2,7 +2,7 @@ type: UnitCargoLoader
 name: Drone station
 health: 500
 size: 3
-itemCapacity: 100
+itemCapacity: 200
 consumes: {
   power: 10
 }
