@@ -1,0 +1,31 @@
+{
+    "name": "factory technology 3",
+    "type": "GenericCrafter",
+    "health": 500,
+    "outputItems": [
+        "bm/2"
+    ],
+    "consumes": {
+        "power": 16.666667,
+        "items": [
+            "np/1",
+            "rm/1"
+        ]
+    },
+    "size": 2,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": false,
+    "itemCapacity": 10,
+    "craftTime": 60,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "np/10",
+      "lp/500",
+      "rm/100",
+      "gm/200"
+    ],
+    "research": "ft2"
+}

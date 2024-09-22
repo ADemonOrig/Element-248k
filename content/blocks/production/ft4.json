@@ -1,0 +1,36 @@
+{
+    "name": "factory technology 4",
+    "type": "GenericCrafter",
+    "health": 1000,
+    "outputItems": [
+        "pm/2"
+    ],
+    "consumes": {
+        "power": 100,
+        "items": [
+            "tp/1",
+            "bm/1"
+        ],
+        "liquids": [
+            "plasma/0.025"
+        ]
+    },
+    "size": 3,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": true,
+    "itemCapacity": 10,
+    "liquidCapacity": 100,
+    "craftTime": 60,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "lp/500",
+      "tp/200",
+      "bm/100",
+      "rm/200",
+      "gm/300"
+    ],
+    "research": "ft3"
+}

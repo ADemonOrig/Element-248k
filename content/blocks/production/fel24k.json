@@ -1,0 +1,35 @@
+{
+    "name": "factory Element 24k",
+    "type": "GenericCrafter",
+    "health": 5000,
+    "outputItems": [
+        "el24k/1"
+    ],
+    "consumes": {
+        "power": 16666.666667,
+        "items": [
+            "hd/1",
+            "cp/1",
+            "cth-pl/1"
+        ],
+        "liquids": [
+            "el2k/0.1"
+        ]
+    },
+    "size": 2,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "itemCapacity": 10,
+    "liquidCapacity": 100,
+    "hasLiquid": true,
+    "craftTime": 180,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "tp/500",
+      "lp/1000",
+      "wm/300"
+    ],
+    "research": "ft5"
+}
