@@ -1,7 +1,7 @@
 type: UnitCargoUnloadPoint
 name: Drone point
 health: 500
-itemCapacity: 50
+itemCapacity: 200
 size: 2
 requirements: [
   lp/200
