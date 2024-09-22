@@ -1,0 +1,37 @@
+{
+    "name": "factory Element -37",
+    "type": "GenericCrafter",
+    "health": 5000,
+    "outputItems": [
+        "el37/1"
+    ],
+    "consumes": {
+        "power": 16666.666667,
+        "items": [
+            "cth-pl/1",
+            "nf/1",
+            "npf/1"
+        ],
+        "liquids": [
+            "el2k/0.1",
+            "ch-po/0.2",
+            "m/0.4"
+        ]
+    },
+    "size": 3,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": true,
+    "liquidCapacity": 100,
+    "itemCapacity": 10,
+    "craftTime": 180,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "tp/500",
+      "lp/1000",
+      "wm/300"
+    ],
+    "research": "ft5"
+}

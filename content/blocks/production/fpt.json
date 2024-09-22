@@ -1,0 +1,26 @@
+{
+    "name": "factory platinum",
+    "type": "GenericCrafter",
+    "health": 500,
+    "outputItems": [
+        "pt/1"
+    ],
+    "consumes": {
+        "power": 10,
+        "items": [
+            "thorium/2"
+        ]
+    },
+    "size": 2,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "itemCapacity": 10,
+    "craftTime": 60,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "lp/100"
+    ],
+    "research": "flp"
+}

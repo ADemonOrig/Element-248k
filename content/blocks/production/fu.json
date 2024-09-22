@@ -1,0 +1,35 @@
+{
+    "name": "factory uranium",
+    "type": "GenericCrafter",
+    "health": 1000,
+    "outputItems": [
+        "u/1"
+    ],
+    "consumes": {
+        "power": 16.66666667,
+        "items": [
+            "pu/1"
+            
+        ],
+        "liquids": [
+            "water/0.2",
+            "rw/0.05"
+        ]
+    },
+    "size": 3,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "hasLiquids": true,
+    "itemCapacity": 10,
+    "liquidCapacity": 100,
+    "craftTime": 60,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "lp/300",
+      "gm/100",
+      "rm/50"
+    ],
+    "research": "fpu"
+}

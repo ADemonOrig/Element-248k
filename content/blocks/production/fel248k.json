@@ -1,0 +1,29 @@
+{
+    "name": "factory Element 248k",
+    "type": "GenericCrafter",
+    "health": 5000,
+    "outputItems": [
+        "el248k/1"
+    ],
+    "consumes": {
+        "power": 166666.666667,
+        "items": [
+            "el24k/1",
+            "el37/1"
+        ]
+    },
+    "size": 3,
+    "squareSprite": false,
+    "hasPower": true,
+    "hasItems": true,
+    "itemCapacity": 10,
+    "craftTime": 240,
+    "updateEffect": "none",
+    "category": "crafting",
+    "requirements": [
+      "wm/1000"
+    ],
+    "research": [
+        "fel37"
+    ]
+}
