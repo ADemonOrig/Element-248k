@@ -1,0 +1,24 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Elemental generator 3",
+  "health": 2000,
+  "size": 5,
+  "hasPower": true,
+  "hasItems": true,
+  "itemCapacity": 3,
+  "powerProduction": 200000,
+  "consumes": {
+    "items": [
+      "el248k/1"
+    ]
+  },
+  "requirements": [
+    "lp/7500",
+    "tp/3000",
+    "wm/750"
+  ],
+  "craftTime": 180,
+  "category": "power",
+  "research": "elg2",
+  "consumeEffect": "scatheExplosion"
+}

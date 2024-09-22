@@ -1,0 +1,44 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Hydrogen reactor",
+  "health": 3000,
+  "drawer": {
+"type": "DrawMulti",
+"drawers": [
+    {
+        "type": "DrawDefault"
+      },
+{
+"type": "DrawParticles",
+"color": "97A5F7",
+"alpha": 0.4,
+"blending": "additive",
+"particleSize": 4,
+"particleRad": 16,
+"particles": 43,
+"fadeMargin": 0.8,
+"rotateScl": 4,
+"particleLife": 40
+}
+]
+},
+  "size": 4,
+  "hasPower": true,
+  "hasLiquids": true,
+  "liquidCapacity": 300,
+  "powerProduction": 1000,
+  "consumes": {
+    "liquids": [
+      "hydrogen/0.5"
+    ]
+  },
+  "requirements": [
+    "tp/1000",
+    "wm/100",
+    "pm/100",
+    "bm/100"
+  ],
+  "craftTime": 60,
+  "category": "power",
+  "research": "mg"
+}

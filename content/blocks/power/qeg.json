@@ -1,0 +1,45 @@
+{
+  "name": "Quantum energy generator",
+  "type": "ImpactReactor",
+  "health": 10000,
+  "itemCapacity": 300,
+  "size": 9,
+  "lightColor": "1602D8",
+  "baseExplosiveness": 90000000,
+  "explosionRadius": 70,
+  "explosionDamage": 90000000,
+  "powerProduction": 133333.333333334,
+  "warmupSpeed": 0.0006,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+        {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawPlasma",
+        "suffix": "-plasma-",
+        "plasma1": "1602D8",
+        "plasma2": "1602D8"
+      }
+    ]
+  },
+  "consumes": {
+    "power": 16666.666666666666667,
+    "items": [
+      "cth-pl/1"
+    ]
+  },
+  "requirements": [
+    "tp/4000",
+    "lp/5000",
+    "wm/500"
+  ],
+  "craftTime": 60,
+  "category": "power",
+  "loopSound": "pulse",
+  "loopSoundVolume": 2,
+  "research": "mtnr",
+  "ambientSound": "hum",
+  "ambientSoundVolume": 2
+}

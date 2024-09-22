@@ -1,0 +1,53 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Thermal reactor",
+  "health": 1000,
+  "effectChance": 0.5,
+"generateEffectRange": 1,
+"generateEffect": {
+"type": "RadialEffect",
+"effect": {
+"type": "multiEffect",
+"effects": [
+{
+"type": "ParticleEffect",
+"particles": 3,
+"lifetime": 60,
+"interp": "circleOut",
+"length": 30,
+"cone": -8,
+"sizeFrom": 3,
+"sizeTo": 0,
+"colorFrom": "FFB204",
+"colorTo": "FFB204"
+}
+]
+},
+"rotationOffset": 45,
+"lengthOffset": 12,
+"amount": 4
+},
+  "size": 4,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": true,
+  "itemCapacity": 20,
+  "liquidCapacity": 300,
+  "powerProduction": 300,
+  "consumes": {
+    "liquids": [
+      "thp/0.1"
+    ],
+    "items": [
+        "sand/2"
+    ]
+  },
+  "requirements": [
+    "lp/1000",
+    "rm/150"
+  ],
+  "outputLiquid": "tw/0.2",
+  "craftTime": 60,
+  "category": "power",
+  "research": "pg"
+}
