@@ -1,8 +1,8 @@
 type: StackConveyor
 name: Tungsten conveyor
 health: 100
-itemCapacity: 30
-speed: 0.06
+itemCapacity: 50
+speed: 0.075
 outputRouter: false
 baseEfficiency: 1
 requirements: [
