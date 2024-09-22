@@ -12,7 +12,7 @@
   "consumes": {
     "liquids": [
       "cryofluid/0.5",
-      "nw/0.2"
+      "nw/0.1"
     ],
     "items": [
       "np/4"
