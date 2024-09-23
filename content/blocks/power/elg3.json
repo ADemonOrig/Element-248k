@@ -6,7 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "itemCapacity": 3,
-  "powerProduction": 200000,
+  "powerProduction": 300000,
   "consumes": {
     "items": [
       "el248k/1"
