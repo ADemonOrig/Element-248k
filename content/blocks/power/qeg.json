@@ -35,7 +35,7 @@
     "lp/5000",
     "wm/500"
   ],
-  "craftTime": 60,
+  "craftTime": 180,
   "category": "power",
   "loopSound": "pulse",
   "loopSoundVolume": 2,
