@@ -23,7 +23,5 @@
     "requirements": [
       "wm/1000"
     ],
-    "research": [
-        "fel37"
-    ]
+    "research": "fel37"
 }
