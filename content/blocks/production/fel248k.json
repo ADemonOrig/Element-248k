@@ -17,7 +17,7 @@
     "hasPower": true,
     "hasItems": true,
     "itemCapacity": 10,
-    "craftTime": 240,
+    "craftTime": 60,
     "updateEffect": "none",
     "category": "crafting",
     "requirements": [
