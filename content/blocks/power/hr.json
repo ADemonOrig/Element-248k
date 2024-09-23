@@ -26,10 +26,10 @@
   "hasPower": true,
   "hasLiquids": true,
   "liquidCapacity": 300,
-  "powerProduction": 1000,
+  "powerProduction": 2000,
   "consumes": {
     "liquids": [
-      "hydrogen/0.5"
+      "hydrogen/0.4"
     ]
   },
   "requirements": [
